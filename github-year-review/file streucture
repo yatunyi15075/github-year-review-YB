@@ -1,0 +1,24 @@
+github-year-review/
+│
+├── src/
+│   ├── app/
+│   │   ├── layout.tsx
+│   │   ├── page.tsx
+│   │   ├── globals.css
+│   │   └── components/
+│   │        ├── UsernameForm.tsx
+│   │        ├── StatsCard.tsx
+│   │        ├── Dashboard.tsx
+│   │        └── LoadingSpinner.tsx
+│   │
+│   ├── lib/
+│   │    ├── github.ts
+│   │    └── helpers.ts
+│   │
+│   └── types/
+│        └── github.ts
+│
+├── public/
+│   └── logo.png
+│
+└── README.md
